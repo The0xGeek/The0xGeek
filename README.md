@@ -21,6 +21,9 @@ Focused on building and studying offensive security systems through code, automa
 
 ## ⚡ Tech Stack
 
+<div style="display: flex; justify-content: space-between;">
+<div>
+
 #### 🛡️ Pentesting
 
 * Burp Suite
@@ -28,6 +31,10 @@ Focused on building and studying offensive security systems through code, automa
 * OWASP ZAP
 * Nikto
 * Nuclei
+
+</div>
+
+<div>
 
 #### ⚔️ Red Teaming
 
@@ -37,6 +44,10 @@ Focused on building and studying offensive security systems through code, automa
 * Empire
 * Ligolo
 
+</div>
+
+<div>
+
 #### 💻 Programming
 
 * C / C++
@@ -44,3 +55,6 @@ Focused on building and studying offensive security systems through code, automa
 * Go
 * JavaScript
 * PHP
+
+</div>
+</div>
